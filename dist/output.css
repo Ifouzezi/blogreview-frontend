@@ -558,6 +558,10 @@ video {
   margin-bottom: 1.5rem;
 }
 
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -718,6 +722,10 @@ video {
   padding-top: 0.5rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-sans {
   font-family: Figtree, ui-sans-serif, system-ui, sans-serif;
 }
@@ -742,6 +750,11 @@ video {
 
 .text-\[14px\] {
   font-size: 14px;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .font-bold {
